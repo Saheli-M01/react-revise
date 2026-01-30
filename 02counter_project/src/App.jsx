@@ -6,6 +6,8 @@ function App() {
   const addValue = () => {
     if (counter <= 19) {
       setCounter(counter + 1);
+      setCounter(counter + 1);
+      setCounter(counter + 1);
     }
   };
   const subtractValue = () => {
